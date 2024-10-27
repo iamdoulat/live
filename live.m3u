@@ -33,3 +33,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1, tvg-logo="https://www.deshitv.com/images/bangla_logo/DeshTV24-BanglaLogo.png" group-title="Bangla Channels",DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://logowik.com/content/uploads/images/bein-sports-13097.logowik.com.webp" group-title="Bangla Channels",Bein Sports 1 TV
+https:\\live-hls-web-aje.getaj.net\AJE\01.m3u8
+#EXTINF:-1 tvg-logo="https://www.pasjatv.pl/files/BollywooD-HD%20NEW.jpg" group-title="Bollywood",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
