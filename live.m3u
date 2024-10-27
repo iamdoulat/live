@@ -2,4 +2,18 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DV6nsZJXUAIjRRt.jpg:large" group-title="Music Channels",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DV6nsZJXUAIjRRt.jpg:large" group-title="Documentary Channels",Animal Planet
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8 
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 tvg-logo="https://www.techfollows.com/wp-content/uploads/2021/10/IPTV.png" group-title="Entertainment Channels",BBC TWO
+http://41.205.93.154/BBCTWO/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a70115f478104b5121c7b29ff17f6316d5ad4f6d937567ca774780dd891ec0d5.png" group-title="Entertainment Channels",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids & Cartoon Channels",Cartoon Network HD
+http://208.86.19.13:81/33.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.techfollows.com/wp-content/uploads/2021/10/IPTV.png" group-title="Sports Channels",Dubai Sports 2 HD
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://www.techfollows.com/wp-content/uploads/2021/10/IPTV.png" group-title="Sports Channels",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/640px-TNT_%28TV_Channel%29.svg.png" group-title="Entertainment Channels",TNT English
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Tvg-logo.png" group-title="Entertainment Channels",TVG
+http://190.80.3.28/TVG/TVG.isml/index.m3u8
