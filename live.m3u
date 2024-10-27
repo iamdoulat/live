@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DV6nsZJXUAIjRRt.jpg:large" group-title="Music Channels",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DV6nsZJXUAIjRRt.jpg:large" group-title="Documentary Channels",Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8 
