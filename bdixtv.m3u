@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="Somoy TV" group-title="Bangladesh", Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="Sports", beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-name="Win Sports" group-title="Sports", Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX Sports" group-title="Sports", FOX Sports
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-name="T Sports" group-title="Bangladesh Sports", T Sports
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 1" group-title="Sports", DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" group-title="Sports", ESPN
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+
+#EXTINF:-1 tvg-name="D Sports" group-title="Sports", D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
 #EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="Bangladesh News",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
