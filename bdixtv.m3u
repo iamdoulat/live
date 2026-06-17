@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="TSPORTS HD" tvg-logo="http://198.195.239.50/img/channels/T%20SPORTS.png" group-title="Sports",TSPORTS HD
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png" group-title="News",CHANNEL 24
+http://198.195.239.50:8095/channel24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ATN NEWS HD" tvg-logo="http://198.195.239.50/img/channels/ATN%20NEWS.png" group-title="News",ATN NEWS HD
+http://198.195.239.50:8095/atnNews/index.m3u8
+
+#EXTINF:-1 tvg-name="EKATTOR TV HD" tvg-logo="http://198.195.239.50/img/channels/EKATTOR_TV.png" group-title="News",EKATTOR TV HD
+http://198.195.239.50:8095/ekattorTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="http://198.195.239.50/img/channels/JAMUNA%20TV.png" group-title="News",JAMUNA TV
+http://198.195.239.50:8095/jamunaTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ATN Bangla HD" tvg-logo="http://198.195.239.50/img/channels/ATN%20BANGLA.png" group-title="Entertainment",ATN Bangla HD
+http://198.195.239.50:8095/atnBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BANGLA VISION HD" tvg-logo="http://198.195.239.50/img/channels/BANGLA_VISION.png" group-title="Entertainment",BANGLA VISION HD
+http://198.195.239.50:8095/banglaVision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%20I.png" group-title="Entertainment",CHANNEL I HD
+http://198.195.239.50:8095/channelI/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="NTV HD" tvg-logo="http://198.195.239.50/img/channels/NTV.png" group-title="Entertainment",NTV HD
+http://198.195.239.50:8095/ntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="DEEPTO TV" tvg-logo="http://198.195.239.50/img/channels/DEEPTO.png" group-title="Entertainment",DEEPTO TV
+http://198.195.239.50:8095/deepto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="COLOR BANGLA CHINEMA HD" tvg-logo="http://198.195.239.50/img/channels/COLORS%20BANGLA%20CINEMA.png" group-title="Movies",COLOR BANGLA CHINEMA HD
+http://198.195.239.50:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="http://198.195.239.50/img/channels/SONY%20AATH.png" group-title="Movies",SONY AATH
+http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Bangladesh", Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
